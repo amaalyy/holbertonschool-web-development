@@ -14,7 +14,7 @@ body {
   position: relative;
 }
 
-/* ========= header =========== */
+/* Header */
 header {
   background: transparent;
   width: 100%;
@@ -44,7 +44,7 @@ header {
   font-weight: 700;
 }
 
-/* ===========section banner============= */
+/* Banner section  */
 
 .banner {
   background-image: url(img/background.png);
@@ -139,7 +139,7 @@ header {
   border-radius: 50%;
 }
 
-/* =============== section ================= */
+/* Quote section */
 
 .quote {
   width: 100%;
@@ -184,7 +184,7 @@ header {
   font-weight: 200;
 }
 
-/* ========== section video ===========  */
+/* Video section */
 
 .populars {
   background-color: #ffffff;
@@ -270,7 +270,7 @@ header {
   color: #c271ff;
 }
 
-/* ==============membership============ */
+/* Membership section */
 
 .membership {
   width: 100%;
@@ -336,7 +336,7 @@ header {
   margin-bottom: 50px;
 }
 
-/* ========== faq =========== */
+/* FAQ section */
 
 .questions {
   width: 100%;
@@ -381,7 +381,7 @@ header {
   color: rgba(7, 22, 41, 0.5016);
 }
 
-/* ========= Footer ============ */
+/* Footer */
 
 .footer {
   width: 100%;
